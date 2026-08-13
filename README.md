@@ -4,7 +4,7 @@
 
 ## Slides
 
-- Slides PDF: day1/slides.pdf
+- Slides PDF: day1-algebra.pdf
 
 ## Exercises
 
