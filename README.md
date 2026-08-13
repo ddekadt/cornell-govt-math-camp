@@ -6,8 +6,8 @@ Each day’s materials will be available in a sub repo.
 
 ## Slides
 
-- Slides for day 1: day1/day1-algebra.pdf
+- Slides for day 1: day 1/day1-algebra.pdf
 
 ## Exercises
 
-Exercise files are available in the respective day folders. Please complete these as homework, and do not use AI if you can help it (there is little learning that will take place if you do).
+Exercise files are also available in the respective day folders. Please complete these as homework, and do not use AI if you can help it (there is little learning that will take place if you do).
