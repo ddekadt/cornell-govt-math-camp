@@ -1,11 +1,13 @@
-# cornell-govt-math-camp
+# Cornell GOVT PhD Math Camp, 2026
 
-# Day 1 Materials
+Welcome to the home page for your PhD introductory math and computation camp.
+
+Each day’s materials will be available in a sub repo.
 
 ## Slides
 
-- Slides PDF: day1-algebra.pdf
+- Slides for day 1: day1/day1-algebra.pdf
 
 ## Exercises
 
-Exercise files are available in the day1 folder.
+Exercise files are available in the respective day folders. Please complete these as homework, and do not use AI if you can help it (there is little learning that will take place if you do).
